@@ -41,7 +41,7 @@
     "loader.js": "^4.0.1"
   },
   "dependencies": {
-    "ember-engines": "^0.2.8"
+    "ember-engines": "nathanhammond/ember-engines#lazy-load-build"
   },
   "ember-addon": {
     "paths": [
